@@ -1,4 +1,4 @@
-# Easy Node Authentication
+# Node Authentication
 
 Code takem from scotch.io tutorial series: Complete Guide to Node Authentication
 
